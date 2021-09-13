@@ -205,8 +205,7 @@ img {
 .nav__logo:hover {
   color: var(--first-color);
 }
-
-.nav__logo img {
+.nav__logo {
   display: flex;
   align-items: center;
 }
